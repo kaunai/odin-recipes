@@ -1,0 +1,12 @@
+.title {
+    background-color: blueviolet;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+}
+
+.sub { 
+    background-color: black;
+    color: white;
+    font-family: "Courier New", "Times New Roman";
+}

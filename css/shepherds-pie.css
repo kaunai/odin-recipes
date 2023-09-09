@@ -1,0 +1,12 @@
+.shepherds-pie {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head {
+    background-color: black;
+    color: yellow;
+}

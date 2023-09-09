@@ -1,0 +1,12 @@
+.hummus {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head {
+    color: bisque;
+    background-color: black;
+}
